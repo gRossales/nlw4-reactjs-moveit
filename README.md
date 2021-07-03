@@ -1,5 +1,7 @@
 <h1 align="center"><img alt="move.it" src="./public/logo-full.svg" /></h1>
-
+<p align="center">
+  <img alt="Move.it" src="../media/moveit.png" width="100%"/>
+</p>
 ## Overview
 
 move.it is an app that combines Pomodoro's Techinique with physical exercises for those who spend a lot of time with a computer.
@@ -25,7 +27,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 <p >
-  <img alt="Move.it" src="../media/moveit.png" width="100%"/>
   <img alt="Sample" src="../media/moveit.gif" width="100%"/>
 </p>
 
