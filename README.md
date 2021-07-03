@@ -2,6 +2,7 @@
 <p align="center">
   <img alt="Move.it" src="../media/moveit.png" width="100%"/>
 </p>
+
 ## Overview
 
 move.it is an app that combines Pomodoro's Techinique with physical exercises for those who spend a lot of time with a computer.
